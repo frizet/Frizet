@@ -1,0 +1,17 @@
+{
+  "name": "frizet",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "frizet#9498",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "distube": "^2.8.15",
+    "filter": "^0.1.1",
+    "js": "^0.1.0"
+  }
+}
